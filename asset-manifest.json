@@ -1,21 +1,19 @@
 {
   "files": {
     "main.css": "/netnet-album/static/css/main.68537bb9.chunk.css",
-    "main.js": "/netnet-album/static/js/main.0b9650a1.chunk.js",
-    "main.js.map": "/netnet-album/static/js/main.0b9650a1.chunk.js.map",
+    "main.js": "/netnet-album/static/js/main.cc78c82d.chunk.js",
+    "main.js.map": "/netnet-album/static/js/main.cc78c82d.chunk.js.map",
     "runtime-main.js": "/netnet-album/static/js/runtime-main.7d18bd43.js",
     "runtime-main.js.map": "/netnet-album/static/js/runtime-main.7d18bd43.js.map",
     "static/css/2.12638096.chunk.css": "/netnet-album/static/css/2.12638096.chunk.css",
-    "static/js/2.7b985456.chunk.js": "/netnet-album/static/js/2.7b985456.chunk.js",
-    "static/js/2.7b985456.chunk.js.map": "/netnet-album/static/js/2.7b985456.chunk.js.map",
+    "static/js/2.317400f8.chunk.js": "/netnet-album/static/js/2.317400f8.chunk.js",
+    "static/js/2.317400f8.chunk.js.map": "/netnet-album/static/js/2.317400f8.chunk.js.map",
     "index.html": "/netnet-album/index.html",
     "static/css/2.12638096.chunk.css.map": "/netnet-album/static/css/2.12638096.chunk.css.map",
     "static/css/main.68537bb9.chunk.css.map": "/netnet-album/static/css/main.68537bb9.chunk.css.map",
-    "static/js/2.7b985456.chunk.js.LICENSE.txt": "/netnet-album/static/js/2.7b985456.chunk.js.LICENSE.txt",
-    "static/media/2.ea5ac8ea.png": "/netnet-album/static/media/2.ea5ac8ea.png",
+    "static/js/2.317400f8.chunk.js.LICENSE.txt": "/netnet-album/static/js/2.317400f8.chunk.js.LICENSE.txt",
     "static/media/Rannie F. Pavillon.833190b2.jpg": "/netnet-album/static/media/Rannie F. Pavillon.833190b2.jpg",
     "static/media/RanniePavillon.c3828190.pdf": "/netnet-album/static/media/RanniePavillon.c3828190.pdf",
-    "static/media/bg2.40b7f30c.png": "/netnet-album/static/media/bg2.40b7f30c.png",
     "static/media/blog1.7ecbb78c.svg": "/netnet-album/static/media/blog1.7ecbb78c.svg",
     "static/media/blog2.09939351.svg": "/netnet-album/static/media/blog2.09939351.svg",
     "static/media/blog3.6291ee7c.svg": "/netnet-album/static/media/blog3.6291ee7c.svg",
@@ -29,13 +27,15 @@
     "static/media/pofshop.e956cb21.png": "/netnet-album/static/media/pofshop.e956cb21.png",
     "static/media/pos.90801f32.png": "/netnet-album/static/media/pos.90801f32.png",
     "static/media/retail.2aa5e11c.png": "/netnet-album/static/media/retail.2aa5e11c.png",
-    "static/media/teambond.d8675391.png": "/netnet-album/static/media/teambond.d8675391.png"
+    "static/media/teambond.d8675391.png": "/netnet-album/static/media/teambond.d8675391.png",
+    "static/media/zraPic1.3b271f78.png": "/netnet-album/static/media/zraPic1.3b271f78.png",
+    "static/media/zraPic2.e76663bd.png": "/netnet-album/static/media/zraPic2.e76663bd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7d18bd43.js",
     "static/css/2.12638096.chunk.css",
-    "static/js/2.7b985456.chunk.js",
+    "static/js/2.317400f8.chunk.js",
     "static/css/main.68537bb9.chunk.css",
-    "static/js/main.0b9650a1.chunk.js"
+    "static/js/main.cc78c82d.chunk.js"
   ]
 }
