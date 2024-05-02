@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/netnet-album/static/css/main.e9fa2717.chunk.css",
-    "main.js": "/netnet-album/static/js/main.9703fea4.chunk.js",
-    "main.js.map": "/netnet-album/static/js/main.9703fea4.chunk.js.map",
+    "main.js": "/netnet-album/static/js/main.6d454eb6.chunk.js",
+    "main.js.map": "/netnet-album/static/js/main.6d454eb6.chunk.js.map",
     "runtime-main.js": "/netnet-album/static/js/runtime-main.7d18bd43.js",
     "runtime-main.js.map": "/netnet-album/static/js/runtime-main.7d18bd43.js.map",
     "static/css/2.12638096.chunk.css": "/netnet-album/static/css/2.12638096.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.12638096.chunk.css",
     "static/js/2.26df925d.chunk.js",
     "static/css/main.e9fa2717.chunk.css",
-    "static/js/main.9703fea4.chunk.js"
+    "static/js/main.6d454eb6.chunk.js"
   ]
 }
