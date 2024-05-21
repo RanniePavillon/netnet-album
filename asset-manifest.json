@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/netnet-album/static/css/main.159644a3.chunk.css",
+    "main.css": "/netnet-album/static/css/main.53ea98b3.chunk.css",
     "main.js": "/netnet-album/static/js/main.15366e55.chunk.js",
     "main.js.map": "/netnet-album/static/js/main.15366e55.chunk.js.map",
     "runtime-main.js": "/netnet-album/static/js/runtime-main.7d18bd43.js",
@@ -10,7 +10,7 @@
     "static/js/2.03c7e944.chunk.js.map": "/netnet-album/static/js/2.03c7e944.chunk.js.map",
     "index.html": "/netnet-album/index.html",
     "static/css/2.12638096.chunk.css.map": "/netnet-album/static/css/2.12638096.chunk.css.map",
-    "static/css/main.159644a3.chunk.css.map": "/netnet-album/static/css/main.159644a3.chunk.css.map",
+    "static/css/main.53ea98b3.chunk.css.map": "/netnet-album/static/css/main.53ea98b3.chunk.css.map",
     "static/js/2.03c7e944.chunk.js.LICENSE.txt": "/netnet-album/static/js/2.03c7e944.chunk.js.LICENSE.txt",
     "static/media/Family.c5e4f67a.png": "/netnet-album/static/media/Family.c5e4f67a.png",
     "static/media/zra10_1.aa74739d.jpg": "/netnet-album/static/media/zra10_1.aa74739d.jpg",
@@ -80,7 +80,7 @@
     "static/js/runtime-main.7d18bd43.js",
     "static/css/2.12638096.chunk.css",
     "static/js/2.03c7e944.chunk.js",
-    "static/css/main.159644a3.chunk.css",
+    "static/css/main.53ea98b3.chunk.css",
     "static/js/main.15366e55.chunk.js"
   ]
 }
