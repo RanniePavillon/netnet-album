@@ -1,0 +1,185 @@
+/* width */
+.cstmscrollAccess::-webkit-scrollbar {
+  width: 0px !important;
+  height: 5px !important;
+  margin-top: 100px !important;
+}
+
+.cstmscroll::-webkit-scrollbar {
+  width: 2px !important;
+  height: 2px !important;
+}
+
+.cstmscroll5::-webkit-scrollbar {
+  width: 7px !important;
+  height: 7px !important;
+}
+
+.noScrollcss::-webkit-scrollbar {
+  width: 0 !important;
+  height: 0 !important;
+}
+
+::-webkit-scrollbar {
+  width: 3px !important;
+  height: 3px !important;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+.scrollXColor::-webkit-scrollbar-thumb {
+    background: #117238 !important; 
+    width: 57px !important;
+    border-radius: 20px !important;
+}
+.scrollXCustom::-webkit-scrollbar {
+    height: 8px !important;
+  }
+
+
+/* CUSTOM CSS */
+
+.noutlined:focus {
+  outline: none !important;
+}
+
+/* @import "https://unpkg.com/open-props";
+@import "https://unpkg.com/open-props/normalize.min.css"; */
+
+.media-scroller {
+  display: grid;
+  gap: 0.5rem;
+  grid-auto-flow: column;
+  grid-auto-columns: 35%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+}
+
+.media-element {
+  display: grid;
+  grid-template-rows: min-content;
+  gap: 0.5rem;
+  padding: 0.5rem;
+}
+
+
+/* PAGINATION KNEEL SLIDER CSS */
+
+.dots {
+  display: flex;
+  padding: 10px 0;
+  justify-content: center;
+}
+
+.dot {
+  border: none;
+  width: 10px;
+  height: 10px;
+  background: #BABDC9;
+  border-radius: 50%;
+  margin: 0 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.dot:focus {
+  outline: none;
+}
+
+.dot.active {
+  background: #1C9B51;
+  border-radius: 28px;
+  width: 35px;
+  padding: 0 5px;
+  height: 10px;
+}
+.navigation-wrapper {
+  position: relative;
+  width: auto;
+}
+
+.keen-slider__slide_css {
+  min-width: 100% !important;
+  max-width: 100% !important;
+}
+
+@media (min-width: 320px) {
+  .keen-slider__slidecstms {
+    min-width: calc(50% - 4px) !important;
+    max-width: calc(50% - 4px) !important;
+  }
+}
+@media (min-width: 768px) {
+  .keen-slider__slidecstm {
+    min-width: calc(50% - 4px) !important;
+    max-width: calc(50% - 4px) !important;
+  }
+}
+@media (min-width: 1024px) {
+  .keen-slider__slidecstm {
+    min-width: calc(50% - 4px) !important;
+    max-width: calc(50% - 4px) !important;
+  }
+}
+@media (min-width: 1440px) {
+  .keen-slider__slidecstm {
+    min-width: calc(33% - 4px) !important;
+    max-width: calc(50% - 4px) !important;
+  }
+}
+
+@media (min-width: 320px) {
+    .keen-slider__slides_css {
+      min-width: 109.8px !important;
+      max-width: 109.8px !important;
+    }
+  }
+
+  @media (min-width: 375px) {
+    .keen-slider__slides_css {
+      min-width: 130.8px !important;
+      max-width: 130.8px !important;
+    }
+  }
+  
+.marquee {
+  white-space: nowrap;
+  overflow: hidden;
+  border-radius: 8px;
+  margin-top: -7px;
+  /* background-image: linear-gradient(to right, #FFFFFF 15.92%, rgba(255, 255, 255, 0) 86.3%), linear-gradient(to left, #FFFFFF 15.92%, rgba(255, 255, 255, 0) 86.3%), linear-gradient(to top,  transparent 100%, rgba(255, 255, 255, 0) 0%); */
+
+}
+
+.marquees {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 7s linear infinite;
+}
+
+.marqueestc {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 7s linear infinite 2s;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
